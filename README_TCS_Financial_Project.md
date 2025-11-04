@@ -76,6 +76,8 @@ Compare TCS with peers like Infosys, Wipro, and HCL Tech.
 
 👩‍💻 Author
 
-Divya Drishti
+RITIKA KUMARI
+
 Student Project – Financial Statement Data Preparation using Python & CSV
+
 Theme: Corporate Finance / Fundamental Analysis
